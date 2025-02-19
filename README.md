@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Glaudir Schlemper!
+# Olá, eu sou Glaudir Schlemper!
 
 ## Sobre mim
 
